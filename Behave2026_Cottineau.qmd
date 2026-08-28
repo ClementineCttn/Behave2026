@@ -398,7 +398,7 @@ Source: [@raimbault2019space]
 ::: {}
 ![](figures/spacematters5.png){width="35%"}
 
-Relative distance of phase diagrams as function of generator parameters α (preferential attachment) and β (diffusion).
+Relative distance of phase diagrams as function of generator parameters α (preferential attachment) and β (diffusion), i.e. the average squared distance between corresponding points of the phase diagrams in the isotropic and generated setyps. **Values greater than 1 will mean that inter-diagram variability is more important than intra-diagram variability**. 
 :::
 
 ::: {}
@@ -426,4 +426,4 @@ Source: [@raimbault2019space]
 
 ## Find the presentation
 
-[![](pres_files/qr_cdvw3.png){width="45%"}](https://clementinecttn.github.io/Behave2026/)
+[![](pres_files/qr_cdvw3.png){width="45%"}](https://clementinecttn.github.io/Behave2026/Behave2026_Cottineau)
